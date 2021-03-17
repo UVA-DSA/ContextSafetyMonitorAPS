@@ -1,0 +1,12 @@
+{
+    "max_iob": 0,
+    "type": "current",
+    "dia": 4,
+    "current_basal": 1.8,
+    "max_daily_basal": 2.2,
+    "max_basal": 6,
+    "min_bg": 100,
+    "max_bg": 120,
+    "sens": 20,
+    "carb_ratio": 5
+}

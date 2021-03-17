@@ -1,0 +1,990 @@
+2019-02-13T22:21:46,873615091-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 0
+@@@Special log:  34157
+Blood_glucose: 100
+2019-02-13T22:26:48,165064119-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 5
+@@@Special log:  33692
+Blood_glucose: 100
+2019-02-13T22:31:49,418133312-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 10
+@@@Special log:  39264
+Blood_glucose: 100
+2019-02-13T22:36:50,774046470-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 15
+@@@Special log:  42505
+Blood_glucose: 100
+2019-02-13T22:41:52,073208756-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 20
+@@@Special log:  36535
+Blood_glucose: 99.999130698008
+2019-02-13T22:46:53,357663241-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 25
+@@@Special log:  41932
+Blood_glucose: 100.00000096745008
+2019-02-13T22:51:54,631836344-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 30
+@@@Special log:  46289
+Blood_glucose: 100.00730128620542
+2019-02-13T22:56:55,928036176-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 35
+@@@Special log:  46164
+Blood_glucose: 100.02702183953662
+2019-02-13T23:01:57,212665921-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 40
+@@@Special log:  36048
+Blood_glucose: 100.06477976796634
+2019-02-13T23:06:58,499500522-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 45
+@@@Special log:  38520
+Blood_glucose: 100.12570306723309
+2019-02-13T23:11:59,802160387-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 50
+@@@Special log:  39393
+Blood_glucose: 100.21435987892957
+2019-02-13T23:17:01,098950840-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 55
+@@@Special log:  36952
+Blood_glucose: 100.335111015865
+2019-02-13T23:22:02,385172814-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 60
+@@@Special log:  38190
+Blood_glucose: 100.4920741792032
+2019-02-13T23:27:03,667414334-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 65
+@@@Special log:  34844
+Blood_glucose: 100.68900771249365
+2019-02-13T23:32:04,965631686-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 70
+@@@Special log:  41253
+Blood_glucose: 100.92923835227985
+2019-02-13T23:37:06,240097024-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 75
+@@@Special log:  46283
+Blood_glucose: 101.21533006698293
+2019-02-13T23:42:07,531237560-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 80
+@@@Special log:  37149
+Blood_glucose: 101.54916308321903
+2019-02-13T23:47:08,810043653-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 85
+@@@Special log:  45513
+Blood_glucose: 101.93201113308594
+2019-02-13T23:52:10,106055138-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 90
+@@@Special log:  35178
+Blood_glucose: 102.36441791034697
+2019-02-13T23:57:11,420434499-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 95
+@@@Special log:  43057
+Blood_glucose: 102.84632622278224
+2019-02-14T00:02:12,747530299-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 100
+@@@Special log:  33995
+Blood_glucose: 103.37718834198486
+2019-02-14T00:07:14,015055772-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 105
+@@@Special log:  34275
+Blood_glucose: 103.95605976237809
+2019-02-14T00:12:15,313968022-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 110
+@@@Special log:  33080
+Blood_glucose: 104.58167846704679
+2019-02-14T00:17:16,631965009-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 115
+@@@Special log:  46223
+Blood_glucose: 105.2525316395063
+2019-02-14T00:22:17,918274132-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 120
+@@@Special log:  38090
+Blood_glucose: 105.96691157955472
+2019-02-14T00:27:19,206418496-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 125
+@@@Special log:  41630
+Blood_glucose: 106.72296239308919
+2019-02-14T00:32:20,489620674-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 130
+@@@Special log:  42496
+Blood_glucose: 107.51871884044385
+2019-02-14T00:37:21,769923856-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 135
+@@@Special log:  38460
+Blood_glucose: 108.35193055854465
+2019-02-14T00:42:23,129706373-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 140
+@@@Special log:  35513
+Blood_glucose: 109.22014813556541
+2019-02-14T00:47:24,439644637-0800
+get-profile://text/shell/settings/profile.json
+reporting settings/profile.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+Time 145
+@@@Special log:  37929
+Blood_glucose: 110.12079231562885
+
+Glucose is below target
+
+
+glucose is stable
+
+
+iob is stable
+
+
+No change in insulin
+
+
+prev_iob:  -0.1
+iob:  -0.1 
+
+
+prev_glucose:  80.0
+loaded_glucose 80.0
+
+bg
+ 80
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is falling
+
+
+insulin is increased
+
+
+prev_iob:  -0.1
+iob:  -0.149 
+
+
+prev_glucose:  80.0
+loaded_glucose 100.0
+
+bg
+ 100
+
+Safe Action
+
+
+Glucose is below target
+
+
+glucose is stable
+
+
+iob is rising
+
+
+insulin is decreased
+
+
+prev_iob:  -0.149
+iob:  0.051 
+
+
+prev_glucose:  100.0
+loaded_glucose 100.0
+
+bg
+ 100
+
+Glucose is below target
+
+
+glucose is stable
+
+
+iob is falling
+
+
+insulin is increased
+
+
+prev_iob:  0.051
+iob:  -0.098 
+
+
+prev_glucose:  100.0
+loaded_glucose 100.0
+
+bg
+ 100
+
+Safe Action
+
+
+Glucose is below target
+
+
+glucose is stable
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.098
+iob:  -0.097 
+
+
+prev_glucose:  100.0
+loaded_glucose 100.0
+
+bg
+ 100
+
+Glucose is below target
+
+
+glucose is falling
+
+
+iob is falling
+
+
+insulin is increased
+
+
+prev_iob:  -0.097
+iob:  -0.145 
+
+
+prev_glucose:  100.0
+loaded_glucose 99.999130698008
+
+bg
+ 100
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.145
+iob:  -0.143 
+
+
+prev_glucose:  99.999130698008
+loaded_glucose 100.00000096745008
+
+bg
+ 100
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.143
+iob:  -0.14 
+
+
+prev_glucose:  100.00000096745008
+loaded_glucose 100.00730128620542
+
+bg
+ 100.01
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+insulin is decreased
+
+
+prev_iob:  -0.14
+iob:  -0.137 
+
+
+prev_glucose:  100.00730128620542
+loaded_glucose 100.02702183953662
+
+bg
+ 100.03
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is falling
+
+
+insulin is decreased
+
+
+prev_iob:  -0.137
+iob:  -0.184 
+
+
+prev_glucose:  100.02702183953662
+loaded_glucose 100.06477976796634
+
+bg
+ 100.06
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.184
+iob:  -0.18 
+
+
+prev_glucose:  100.06477976796634
+loaded_glucose 100.12570306723309
+
+bg
+ 100.13
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.18
+iob:  -0.176 
+
+
+prev_glucose:  100.12570306723309
+loaded_glucose 100.21435987892957
+
+bg
+ 100.21
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is falling
+
+
+insulin is increased
+
+
+prev_iob:  -0.176
+iob:  -0.221 
+
+
+prev_glucose:  100.21435987892957
+loaded_glucose 100.335111015865
+
+bg
+ 100.34
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.221
+iob:  -0.216 
+
+
+prev_glucose:  100.335111015865
+loaded_glucose 100.4920741792032
+
+bg
+ 100.49
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.216
+iob:  -0.21 
+
+
+prev_glucose:  100.4920741792032
+loaded_glucose 100.68900771249365
+
+bg
+ 100.69
+
+***************************************
+********** Unsafe Action !!!!! *************
+Reason:  row_28
+***************************************
+
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+insulin is increased
+
+
+prev_iob:  -0.21
+iob:  -0.204 
+
+
+prev_glucose:  100.68900771249365
+loaded_glucose 100.92923835227985
+
+bg
+ 100.93
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.204
+iob:  -0.198 
+
+
+prev_glucose:  100.92923835227985
+loaded_glucose 101.21533006698293
+
+bg
+ 101.22
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.198
+iob:  -0.191 
+
+
+prev_glucose:  101.21533006698293
+loaded_glucose 101.54916308321903
+
+bg
+ 101.55
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.191
+iob:  -0.184 
+
+
+prev_glucose:  101.54916308321903
+loaded_glucose 101.93201113308594
+
+bg
+ 101.93
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.184
+iob:  -0.177 
+
+
+prev_glucose:  101.93201113308594
+loaded_glucose 102.36441791034697
+
+bg
+ 102.36
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.177
+iob:  -0.17 
+
+
+prev_glucose:  102.36441791034697
+loaded_glucose 102.84632622278224
+
+bg
+ 102.85
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.17
+iob:  -0.163 
+
+
+prev_glucose:  102.84632622278224
+loaded_glucose 103.37718834198486
+
+bg
+ 103.38
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.163
+iob:  -0.155 
+
+
+prev_glucose:  103.37718834198486
+loaded_glucose 103.95605976237809
+
+bg
+ 103.96
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.155
+iob:  -0.148 
+
+
+prev_glucose:  103.95605976237809
+loaded_glucose 104.58167846704679
+
+bg
+ 104.58
+
+***************************************
+********** Unsafe Action !!!!! *************
+Reason:  row_28
+***************************************
+
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+insulin is increased
+
+
+prev_iob:  -0.148
+iob:  -0.141 
+
+
+prev_glucose:  104.58167846704679
+loaded_glucose 105.2525316395063
+
+bg
+ 105.25
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.141
+iob:  -0.084 
+
+
+prev_glucose:  105.2525316395063
+loaded_glucose 105.96691157955472
+
+bg
+ 105.97
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.084
+iob:  -0.077 
+
+
+prev_glucose:  105.96691157955472
+loaded_glucose 106.72296239308919
+
+bg
+ 106.72
+
+***************************************
+********** Unsafe Action !!!!! *************
+Reason:  row_28
+***************************************
+
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+insulin is increased
+
+
+prev_iob:  -0.077
+iob:  -0.071 
+
+
+prev_glucose:  106.72296239308919
+loaded_glucose 107.51871884044385
+
+bg
+ 107.52
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.071
+iob:  -0.014 
+
+
+prev_glucose:  107.51871884044385
+loaded_glucose 108.35193055854465
+
+bg
+ 108.35
+
+Glucose is below target
+
+
+glucose is rising
+
+
+iob is rising
+
+
+No change in insulin
+
+
+prev_iob:  -0.014
+iob:  -0.009 
+
+
+prev_glucose:  108.35193055854465
+loaded_glucose 109.22014813556541
+
+bg
+ 109.22
+
+ ########################################
+Fault injected:  0
+Fault Occurrence: 3  times
+########################################
+

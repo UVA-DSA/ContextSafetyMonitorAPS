@@ -1,0 +1,12 @@
+title:21_maximize_glucose
+location//updated_ct_script_iob_based.py//#glucose:HOOK#
+fault 1//if _>=22 and _<47://data_to_prepend["glucose"]=175
+fault 2//if _>=22 and _<55://data_to_prepend["glucose"]=175
+fault 3//if _>=22 and _<87://data_to_prepend["glucose"]=175
+fault 4//if _>=70 and _<86://data_to_prepend["glucose"]=175
+fault 5//if _>=70 and _<93://data_to_prepend["glucose"]=175
+fault 6//if _>=70 and _<113://data_to_prepend["glucose"]=175
+fault 7//if _>=89 and _<110://data_to_prepend["glucose"]=175
+fault 8//if _>=89 and _<115://data_to_prepend["glucose"]=175
+fault 9//if _>=89 and _<120://data_to_prepend["glucose"]=175
+Total number of fault cases: 9

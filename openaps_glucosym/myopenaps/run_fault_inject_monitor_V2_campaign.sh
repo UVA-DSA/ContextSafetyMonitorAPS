@@ -1,0 +1,11 @@
+#Usage: python run_openAPS_monitor.py fault_library_monitor_V2
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_9
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_12
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_13
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_14
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_17
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_18
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_19
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_20
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_21
+python run_openAPS_monitor.py fault_library_monitor_V2/scenario_22

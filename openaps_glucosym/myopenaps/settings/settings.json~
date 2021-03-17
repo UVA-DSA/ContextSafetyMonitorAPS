@@ -1,0 +1,8 @@
+{
+  "maxBasal": 1.5,  //#adjust to your preferred max temp basal rate
+  "temp_basal": {
+    "percent": 100,
+    "type": "Units/hour"
+  }, 
+  "insulin_action_curve": 6 //#adjust to your selected duration of insulin action in whole hour increments
+}

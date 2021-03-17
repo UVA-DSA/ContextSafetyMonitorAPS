@@ -1,0 +1,21 @@
+title:18_bitflip_sub_glucose
+location//updated_ct_script_iob_based.py//#glucose:HOOK#
+fault 1//if _>=10 and _<30://data_to_prepend["glucose"]-=32//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 2//if _>=10 and _<69://data_to_prepend["glucose"]-=32//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 3//if _>=10 and _<93://data_to_prepend["glucose"]-=32//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 4//if _>=12 and _<37://data_to_prepend["glucose"]-=32//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 5//if _>=12 and _<83://data_to_prepend["glucose"]-=32//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 6//if _>=12 and _<91://data_to_prepend["glucose"]-=32//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 7//if _>=24 and _<28://data_to_prepend["glucose"]-=32//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 8//if _>=24 and _<67://data_to_prepend["glucose"]-=32//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 9//if _>=24 and _<117://data_to_prepend["glucose"]-=32//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 10//if _>=9 and _<32://data_to_prepend["glucose"]-=64//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 11//if _>=9 and _<79://data_to_prepend["glucose"]-=64//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 12//if _>=9 and _<107://data_to_prepend["glucose"]-=64//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 13//if _>=11 and _<44://data_to_prepend["glucose"]-=64//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 14//if _>=11 and _<54://data_to_prepend["glucose"]-=64//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 15//if _>=11 and _<90://data_to_prepend["glucose"]-=64//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 16//if _>=23 and _<31://data_to_prepend["glucose"]-=64//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 17//if _>=23 and _<63://data_to_prepend["glucose"]-=64//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+fault 18//if _>=23 and _<112://data_to_prepend["glucose"]-=64//if data_to_prepend["glucose"]<0://  data_to_prepend["glucose"]= 0
+Total number of fault cases: 18

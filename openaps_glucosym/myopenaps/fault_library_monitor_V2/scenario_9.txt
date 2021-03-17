@@ -1,0 +1,12 @@
+title:9_lostconnection_hold_rate
+location//updated_ct_script_iob_based.py//#rate:HOOK#
+fault 1//if _>=6 and _<12://rate_refresh=0
+fault 2//if _>=6 and _<55://rate_refresh=0
+fault 3//if _>=6 and _<94://rate_refresh=0
+fault 4//if _>=19 and _<39://rate_refresh=0
+fault 5//if _>=19 and _<83://rate_refresh=0
+fault 6//if _>=19 and _<89://rate_refresh=0
+fault 7//if _>=23 and _<55://rate_refresh=0
+fault 8//if _>=23 and _<62://rate_refresh=0
+fault 9//if _>=23 and _<117://rate_refresh=0
+Total number of fault cases: 9

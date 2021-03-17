@@ -1,0 +1,37 @@
+//the “offset” entry is the minutes since midnight for that particular targe//t to start. The profile always starts with a midnight rate ##first, //offset//is 0. The next BG target, in this example, starts at 6 am and therefore ha//s an offset of 360 minutes (6 hours from ##midnight at 60 minutes per hour).//Target range can have the same bg value for high and low, if desired, but //be careful not to have a high ##target set lower than the low target.
+
+//You can add or delete bg targets to the sample file below, but pay close a//ttention to syntax. The last bg target range in the profile ##needs end with//out a comma after the last }
+
+
+
+{
+  "units": "mg/dL", 
+  "user_preferred_units": "mg/dL", 
+  "targets": [
+    {
+      "i": 0, 
+      "high": 120, 
+      "start": "00:00:00", 
+      "low": 110, 
+      "offset": 0, 
+      "x": 0
+    }, 
+    {
+      "i": 12, 
+      "high": 120, 
+      "start": "06:00:00", 
+      "low": 110, 
+      "offset": 360, 
+      "x": 1
+    }, 
+    {
+      "i": 40, 
+      "high": 120, 
+      "start": "20:00:00", 
+      "low": 110, 
+      "offset": 1200, 
+      "x": 2
+    }
+  ], 
+  "first": 1
+}

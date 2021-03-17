@@ -1,0 +1,12 @@
+title:19_maximize_rate
+location//updated_ct_script_iob_based.py//#rate:HOOK#
+fault 1//if _>=29 and _<47://loaded_suggested_data["rate"]=2
+fault 2//if _>=29 and _<71://loaded_suggested_data["rate"]=2
+fault 3//if _>=29 and _<115://loaded_suggested_data["rate"]=2
+fault 4//if _>=43 and _<58://loaded_suggested_data["rate"]=2
+fault 5//if _>=43 and _<85://loaded_suggested_data["rate"]=2
+fault 6//if _>=43 and _<115://loaded_suggested_data["rate"]=2
+fault 7//if _>=84 and _<85://loaded_suggested_data["rate"]=2
+fault 8//if _>=84 and _<106://loaded_suggested_data["rate"]=2
+fault 9//if _>=84 and _<117://loaded_suggested_data["rate"]=2
+Total number of fault cases: 9

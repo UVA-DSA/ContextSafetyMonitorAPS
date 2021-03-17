@@ -1,0 +1,12 @@
+title:20_minimize_rate
+location//updated_ct_script_iob_based.py//#rate:HOOK#
+fault 1//if _>=9 and _<10://loaded_suggested_data["rate"]=0
+fault 2//if _>=9 and _<55://loaded_suggested_data["rate"]=0
+fault 3//if _>=9 and _<98://loaded_suggested_data["rate"]=0
+fault 4//if _>=11 and _<47://loaded_suggested_data["rate"]=0
+fault 5//if _>=11 and _<53://loaded_suggested_data["rate"]=0
+fault 6//if _>=11 and _<95://loaded_suggested_data["rate"]=0
+fault 7//if _>=27 and _<34://loaded_suggested_data["rate"]=0
+fault 8//if _>=27 and _<79://loaded_suggested_data["rate"]=0
+fault 9//if _>=27 and _<96://loaded_suggested_data["rate"]=0
+Total number of fault cases: 9

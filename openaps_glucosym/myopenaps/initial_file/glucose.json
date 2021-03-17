@@ -1,0 +1,19 @@
+[
+    {
+        "trend_arrow": "45_DOWN",
+        "display_time": "2018-04-16T04:10:00-07:00",
+        "noise": 1,
+        "direction": "FortyFiveDown",
+        "system_time": "2018-04-13T04:10:18-07:00",
+        "dateString": "2018-04-16T04:10:00-07:00",
+        "date": 1529691204000,
+        "unfiltered": 253696,
+        "rssi": 150,
+        "device": "openaps://cgm",
+        "filtered": 263232,
+        "sgv": 100,
+        "type": "sgv",
+        "glucose": "100",
+        "bg": 140
+    }
+]
