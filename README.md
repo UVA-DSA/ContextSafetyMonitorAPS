@@ -2,7 +2,7 @@
 This is the repository for evaluation of different Context-aware Safety Monitors for Artificial Pancreas Systems (APS).
 It integrates  two  Closed-loop  Simulation  Platforms  (GlucosymSimulator with OpenAps Controller and UVA-Padova T1DS2013 Simulator with Basal-Bolus Controller) with a Software Fault Injeciton Engine. 
 
-**Install**
+**Install:**
 For the installment of the integrated simulators, please refer to our [APS_Testbed](https://github.com/UVA-DSA/APS_TestBed) repo. 
 
 **HOW To CITE:** 
